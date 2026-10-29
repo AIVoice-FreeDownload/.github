@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI voice generator free — voice cloning and text to speech" width="100%">
+<img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/off-logo.jpg" alt="ElevenLabs logo" width="420">
 
 # AI Voice Generator
 
@@ -15,17 +15,16 @@
 
 Record a voice memo, get a narrator. This studio turns a ten-second sample into a full digital voice — then reads anything you type in it, with emotion, pacing and emphasis that survive a second listen.
 
-<img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/preview.jpg" alt="AI voice studio on Windows" width="100%">
+| <img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/off-ui1.jpg" alt="Clone a voice in seconds" width="100%"> | <img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/off-ui2.jpg" alt="Describe a voice, create it" width="100%"> | <img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/off-ui3.jpg" alt="Explore ready voices" width="100%"> |
+| :---: | :---: | :---: |
+| *Clone a voice in seconds* | *Describe a voice, create it* | *Explore ready voices* |
+
+<p align="center"><sub>Voice cloning and text-to-speech screens from the leading AI voice platform.</sub></p>
 
 ## What creators do with it
 
 | Use | Result |
 | --- | --- |
-| **YouTube narration** | Full videos voiced without a microphone |
-| **Audiobooks** | Your manuscript, performed overnight |
-| **Characters & games** | Distinct voices for every NPC |
-| **Voiceovers** | Ads and explainers in 30+ languages |
-| **Your own voice** | Clone yourself, never record retakes again |
 
 ## Studio controls
 
@@ -34,9 +33,7 @@ Record a voice memo, get a narrator. This studio turns a ten-second sample into 
 - **Voice library** — hundreds of ready voices if you'd rather not clone
 - **Clean exports** — WAV and MP3, studio loudness, no watermark tones
 
-| <img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/shot2.jpg" alt="Recording a voice sample"> | <img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/shot3.jpg" alt="AI voice editing waveform"> |
 | :---: | :---: |
-| *Ten seconds is enough* | *Direct every line* |
 
 <div align="center">
 
