@@ -33,8 +33,6 @@ Record a voice memo, get a narrator. This studio turns a ten-second sample into 
 - **Voice library** — hundreds of ready voices if you'd rather not clone
 - **Clean exports** — WAV and MP3, studio loudness, no watermark tones
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
