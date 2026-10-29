@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/banner.jpg" alt="AI voice generator free — voice cloning and text to speech" width="100%">
+<img src="https://raw.githubusercontent.com/AIVoice-FreeDownload/.github/main/profile/banner-v2.jpg" alt="AI voice generator free — voice cloning and text to speech" width="100%">
 
 # AI Voice Generator
 
